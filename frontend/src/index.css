@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.footer-heading {
+  @apply font-semibold text-xl mb-1 mt-4;
+}
